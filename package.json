@@ -1,0 +1,30 @@
+{
+  "name": "avg-canvas-rgb",
+  "version": "1.0.0",
+  "description": "This module calculates the average rgb value of a canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" or needed yet && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/avg-canvas-rgb.git"
+  },
+  "keywords": [
+    "imageData",
+    "image",
+    "canvas",
+    "context",
+    "pixels",
+    "bitmap",
+    "pixel",
+    "rgb",
+    "average"
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com> (github.com/mohamedhayibor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/avg-canvas-rgb/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/avg-canvas-rgb#readme"
+}
